@@ -1,4 +1,4 @@
-# Viewee AI
+# Viewee
 ### Welcome to Viewee! 🌟
 
 ### Featured Projects
