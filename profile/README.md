@@ -1,5 +1,5 @@
 # Viewee AI
-### Welcome to the Viewee AI organization! 🌟
+### Welcome to Viewee! 🌟
 
 ### Featured Projects
 - **[viewee-frontend](https://github.com/viewee-ai/viewee-frontend)**
